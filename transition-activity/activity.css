@@ -3,15 +3,8 @@ button {
      transition-duration: 2s;
 }
 
-<<<<<<< HEAD
 button:hover {
     background-color: cornflowerblue;
-=======
-.button:hover {
-    background-color: ghostwhite;
-    color: cornflowerblue;
-    text-transform: white;
->>>>>>> 514ab9709bc4138b44f7dd1448841cdd2dee6046
     color: white;
 }
 
